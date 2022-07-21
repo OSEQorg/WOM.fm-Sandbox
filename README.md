@@ -2,7 +2,7 @@
 
 This is a sandbox repository for [WOM.fm](https://wom.fm). It can serve as a starting point for the development of an audio web application that can be used by local organizations to make vital knowledge and practical information accessible to marginalized, often illiterate populations.
 
-You can check out the final app by clicking [here](https://oseqorg.github.io/WOM.fm-Sandbox/). (which gives you this repository published using GitHub Pages).
+You can check out the final app by clicking [here](https://oseqorg.github.io/WOM.fm-Sandbox/). (which gives you this repository published using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)).
 
 If you need additional information about using templates you can [click here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
